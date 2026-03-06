@@ -10,7 +10,7 @@
 * **Reverse Engineer, Malware Analyst, Binary Exploitation & Digital Forensics.**.
 * **Documenting critical findings and vulnerabilities in [Medium](https://medium.com/@arcanumx0)**.
 ---
-### 🌐 Connect with the Arcangel
+### 🌐 Connect with the Archangel
 [LinkedIn](https://www.linkedin.com/in/antonio-perez-6243403b5/) | [Medium](https://medium.com/@arcanumx0) | [HackTheBox]([https://app.hackthebox.com/users/239399](https://app.hackthebox.com/users/2393990?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs) | [TryHackMe](https://tryhackme.com/p/arcanumx0)
 ---
 # **Break systems. Understand them. Build them stronger**.
