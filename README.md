@@ -9,22 +9,10 @@
 
 ## 🧠 About Me:  Cold 🥶
 
-
 • Security Researcher 
 • Red Team Operator
 • Reverse Engineering
 • CTF Player   
-
----
-
-## ⚔️ Offensive Security Skills
-
-Active Directory
-Web Exploitation
-Privilege Escalation
-Post Exploitation
-Reverse Engineering
-Python Automation
 
 ---
 
@@ -37,29 +25,6 @@ Python Automation
 ![Ghidra](https://img.shields.io/badge/Wireshark-000?style=for-the-badge)
 
 ---
-
-## 🏴‍☠️ Platforms
-
-TryHackMe  
-https://tryhackme.com/p/arcanumx0
-
-HackTheBox  
-https://app.hackthebox.com/users/239399
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arcanumx0&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arcanumx0&theme=tokyonight">
-</p>
-
----
-
 ## 👁 Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=arcanumx0&color=blue)
