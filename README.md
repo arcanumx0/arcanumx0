@@ -11,11 +11,8 @@
 
 
 • Security Researcher 
-
 • Red Team Operator
-
 • Reverse Engineering
-
 • CTF Player   
 
 ---
