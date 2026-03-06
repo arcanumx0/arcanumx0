@@ -3,42 +3,17 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Antonio%20Perez%20%7C%20arcanumx0&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-  # Core Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white) ![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux) ![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge) ![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=for-the-badge) ![pwndbg](https://img.shields.io/badge/pwndbg-111111?style=for-the-badge)![BurpSuite](https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge)![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)![Impacket](https://img.shields.io/badge/Impacket-111111?style=for-the-badge)
 
----
-
-# Offensive Tooling
-
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=for-the-badge)
-![pwndbg](https://img.shields.io/badge/pwndbg-111111?style=for-the-badge)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-111111?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge)
-![Impacket](https://img.shields.io/badge/Impacket-111111?style=for-the-badge)
-
----
 </p>
 
 ---
-
-# Antonio Perez
-
 ### Offensive Security | Red Team | Security Researcher | Reverse Engineer
-
-
-# Open Source Tooling
-
-
-Automation scripts for exploitation and lab solving.
 
 Focus areas:
 
-- Web Exploitation
+- Bug Bounty Hunter
 - Active Directory Enumeration
 - CTF Tooling
 - Security Research
