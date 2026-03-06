@@ -1,4 +1,4 @@
-#  [ arcanumx0 ] :: : (){ :|:&};: 
+#  [ arcanumx0 ] : (){ :|:&};: 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Antonio%20Perez%20%7C%20arcanumx0&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/></p><p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Red+Team+Operator;Security+Researcher;Active+Directory+Attacks;Web+Exploitation;Reverse+Engineering;Bug+Bounty+Hunter&center=true&width=500&height=45"></p>
 
@@ -13,18 +13,11 @@
 ---
 ### 🌐 Connect with the Shadow
 [LinkedIn](https://www.linkedin.com/in/antonio-perez-6243403b5/) | [Medium](https://medium.com/@arcanumx0) | [HackTheBox](https://app.hackthebox.com/users/239399) | [TryHackMe](https://tryhackme.com/p/arcanumx0)
-
-# Commit Snake
-
+---
+# **Break systems. Understand them. Build them stronger**.
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<p align="center">
-"Break systems. Understand them. Build them stronger."
-</p>
+</p><p align="center"></p>
 
 ---
 
