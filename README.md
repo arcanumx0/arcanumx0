@@ -13,16 +13,5 @@
 * **Security Research:** Documentando hallazgos críticos y vulnerabilidades en [Medium](https://medium.com/@arcanumx0).
 
 ---
-
-### 📊 Tactical Activity & Commit History
-![Snake animation](https://github.com/arcanumx0/arcanumx0/blob/output/github-contribution-grid-snake.svg)
-
-<p align="right">
-  <code>Status: SLEEPING_WHITE_MODE_ACTIVE</code><br>
-  <code>Target: 127.0.0.1 // Rooting the world...</code>
-</p>
-
----
-
 ### 🌐 Connect with the Shadow
 [LinkedIn](https://www.linkedin.com/in/antonio-perez-6243403b5/) | [Medium](https://medium.com/@arcanumx0) | [HackTheBox](https://app.hackthebox.com/users/239399) | [TryHackMe](https://tryhackme.com/p/arcanumx0)
