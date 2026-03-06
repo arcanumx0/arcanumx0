@@ -1,13 +1,8 @@
 #  [ arcanumx0 ] :: : (){ :|:&};: 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanumx0&show_icons=true&theme=vague&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanumx0&layout=compact&theme=vague&hide_border=true&title_color=ffffff&text_color=999999&bg_color=0d1117" />
+  <img src="https://media.tenor.com/nuaLJOCwH7gAAAAC/madara-eyes.gif" width="600" alt="Sharingun Scan">
 </p>
-
-> `Network & AD` > **Impacket** | **BloodHound** | **Responder**
-`Binary & Web`  > **Ghidra** | **Pwndbg** | **Caido**
----
 
 ### 🌑 Operational Stack
 > ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-111111?style=for-the-badge&logo=python&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge) ![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=for-the-badge) ![pwndbg](https://img.shields.io/badge/pwndbg-111111?style=for-the-badge) ![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=caido&logoColor=white)
