@@ -19,6 +19,12 @@
 
 ## ⚔️ Offensive Security Skills
 
+Active Directory
+Web Exploitation
+Privilege Escalation
+Post Exploitation
+Reverse Engineering
+Python Automation
 
 ---
 
