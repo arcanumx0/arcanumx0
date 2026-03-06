@@ -12,4 +12,4 @@
 ```text
 Name: Antonio Perez
 Alias: arcanumx0
-Focus: Offensive Security
+Focus: Cold 🥶
