@@ -2,30 +2,8 @@
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Antonio%20Perez%20%7C%20arcanumx0&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
 
----
-
-# Antonio Perez
-
-### Offensive Security | Red Team | Security Researcher | Reverse Engineer
-
-
----
-
-# Offensive Security Dashboard
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arcanumx0&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=9f7aea&icon_color=9f7aea&text_color=ffffff&border_color=9f7aea"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanumx0&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=9f7aea&text_color=ffffff&border_color=9f7aea"/>
-
-</p>
-
----
-
-# Core Languages
+  # Core Languages
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
@@ -44,17 +22,14 @@
 ![Impacket](https://img.shields.io/badge/Impacket-111111?style=for-the-badge)
 
 ---
-
-# Hacking Platforms
-
-<p align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/arcanumx0.png"/>
-
 </p>
 
-
 ---
+
+# Antonio Perez
+
+### Offensive Security | Red Team | Security Researcher | Reverse Engineer
+
 
 # Open Source Tooling
 
@@ -80,15 +55,6 @@ Focus areas:
 
 ---
 
----
-
-# Network Activity
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arcanumx0&theme=discord&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # Commit Snake
 
