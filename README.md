@@ -13,3 +13,21 @@
 ---
 ### 🌐 Connect with the Shadow
 [LinkedIn](https://www.linkedin.com/in/antonio-perez-6243403b5/) | [Medium](https://medium.com/@arcanumx0) | [HackTheBox](https://app.hackthebox.com/users/239399) | [TryHackMe](https://tryhackme.com/p/arcanumx0)
+
+# Commit Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<p align="center">
+"Break systems. Understand them. Build them stronger."
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
