@@ -10,9 +10,9 @@
 ## 🧠 About Me:  Cold 🥶
 
 • Security Researcher  
-• Red Team learner  
-• CTF Player  
-• Reverse Engineering enthusiast  
+• Red Team Operator
+• Reverse Engineering
+• CTF Player   
 
 ---
 
@@ -24,10 +24,10 @@
 ## 🛠 Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-000?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-000?style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![caido](https://img.shields.io/badge/BurpSuite-000?style=for-the-badge)
+![Bloodhound](https://img.shields.io/badge/Metasploit-000?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Wireshark-000?style=for-the-badge)
 
 ---
 
@@ -38,15 +38,6 @@ https://tryhackme.com/p/arcanumx0
 
 HackTheBox  
 https://app.hackthebox.com/users/239399
-
----
-
-## 📚 Projects
-
-🔹 Portswigger Web Academy Scripts  
-https://github.com/arcanumx0/Portswigger_Labs_Web_Academy
-
-More offensive security tools coming soon.
 
 ---
 
@@ -68,10 +59,3 @@ More offensive security tools coming soon.
 
 ---
 
-## 🌐 Contact
-
-LinkedIn  
-https://linkedin.com/in/antonio-perez-6243403b5
-
-Medium  
-https://medium.com/@arcanumx0
