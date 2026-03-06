@@ -1,5 +1,5 @@
 <h1 align="center">Antonio Perez</h1>
-<h3 align="center">Offensive Security | Red Team | Security Researcher | Reverse Engineer</h3>
+<h3 align="center">Offensive Security | Security Researcher | Reverse Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Red+Team+Operator;Security+Researcher;Active+Directory+Attacks;Web+Exploitation;Reverse+Engineering;Bug+Bounty+Hunter&center=true&width=500&height=45">
