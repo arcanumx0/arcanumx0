@@ -5,6 +5,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Antonio%20Perez%20%7C%20arcanumx0&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Red+Team+Operator;Security+Researcher;Active+Directory+Attacks;Web+Exploitation;Reverse+Engineering;Bug+Bounty+Hunter&center=true&width=500&height=45">
+</p>
 
 
 ### 🌑 Operational Stack
