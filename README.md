@@ -9,9 +9,13 @@
 
 ## 🧠 About Me:  Cold 🥶
 
-• Security Researcher  
+
+• Security Researcher 
+
 • Red Team Operator
+
 • Reverse Engineering
+
 • CTF Player   
 
 ---
