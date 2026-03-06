@@ -6,9 +6,9 @@
 ### 🌑 Operational Stack
 > ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-111111?style=for-the-badge&logo=python&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge) ![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=for-the-badge) ![pwndbg](https://img.shields.io/badge/pwndbg-111111?style=for-the-badge) ![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=caido&logoColor=white)
 > 
-* **Automatización de rutas de ataque y delegación de Kerberos**.
-* **Reversing Engineer, Malware Analys, Binary Exploitation & Digital Forense**.
-* **Documentando hallazgos críticos y vulnerabilidades en [Medium](https://medium.com/@arcanumx0)**.
+* **Attack path automation and Kerberos delegation**.
+* **Reverse Engineer, Malware Analyst, Binary Exploitation & Digital Forensics.**.
+* **Documenting critical findings and vulnerabilities in [Medium](https://medium.com/@arcanumx0)**.
 ---
 ### 🌐 Connect with the Shadow
 [LinkedIn](https://www.linkedin.com/in/antonio-perez-6243403b5/) | [Medium](https://medium.com/@arcanumx0) | [HackTheBox](https://app.hackthebox.com/users/239399) | [TryHackMe](https://tryhackme.com/p/arcanumx0)
