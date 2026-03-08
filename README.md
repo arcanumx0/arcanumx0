@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=Red+Team;Blue+Team;Software+Development" /></p>
   
 ### 🌑 Operational Stack
-> ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-111111?style=for-the-badge&logo=python&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge) ![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=for-the-badge) ![pwndbg](https://img.shields.io/badge/pwndbg-111111?style=for-the-badge) ![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=caido&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge) ![Ghidra](https://img.shields.io/badge/Ghidra-111111?style=for-the-badge) ![Caido](https://img.shields.io/badge/Caido-111111?style=for-the-badge&logo=caido&logoColor=white)
 > 
 * **Attack path automation and Kerberos delegation**.
 * **Reverse Engineer, Malware Analyst, Binary Exploitation & Digital Forensics.**.
